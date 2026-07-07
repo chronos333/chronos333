@@ -27,7 +27,9 @@
   
   <br> 
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chronos333&theme=date_night"/> </div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chronos333&theme=date_night"/> 
+
+</div>
 
 ---
 
