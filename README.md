@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:12001f,50:4b0082,100:8a2be2&height=220&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0024,50:4b0082,100:a855f7&height=220&section=header"/>
 
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Vinicius+Pini"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Estudante+de+Desenvolvimento+de+Sistemas;SENAI+%7C+Desenvolvedor+em+forma%C3%A7%C3%A3o"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+%7C+SENAI"/>
 
 </div>
 
@@ -17,11 +17,11 @@
 Olá! Eu sou **Vinicius Pini**.
 
 🎓 Estudante do Ensino Médio e do curso Técnico em Desenvolvimento de Sistemas pelo SENAI.
-💻 Desenvolvedor em formação com foco em aplicações Web e Mobile.
-🚀 Buscando evoluir através de projetos práticos e desafios reais.
-📚 Sempre aprendendo novas tecnologias e boas práticas de programação.
+💻 Desenvolvedor em formação com experiência em desenvolvimento Web e Mobile.
+🚀 Interessado em criar aplicações completas, organizadas e funcionais.
+📚 Sempre buscando melhorar minhas habilidades através de projetos práticos.
 
-Tenho interesse em desenvolver soluções completas, trabalhando desde interfaces modernas até lógica de sistemas, APIs e integração com bancos de dados.
+Tenho experiência desenvolvendo interfaces, sistemas web, aplicações utilizando arquitetura MVC e projetos mobile com Flutter. Busco evoluir constantemente aplicando boas práticas de programação e aprendendo novas tecnologias.
 
 ---
 
@@ -29,54 +29,76 @@ Tenho interesse em desenvolver soluções completas, trabalhando desde interface
 
 <div align="center">
 
-### 💻 Linguagens
+## 🌐 Front-End
 
-<img src="https://skillicons.dev/icons?i=javascript,php,java,python,dart" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript"/>
 
-<br><br>
+<br>
 
-### 🌐 Desenvolvimento Web
-
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript" />
+HTML5 • CSS3 • SCSS • JavaScript
 
 <br><br>
 
-### ⚙️ Back-End e Banco de Dados
+## ⚙️ Back-End
 
-<img src="https://skillicons.dev/icons?i=php,mysql,postgres,spring" />
+<img src="https://skillicons.dev/icons?i=php,mysql"/>
 
-<br><br>
+<br>
 
-### 📱 Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" />
+PHP • MySQL • Desenvolvimento de sistemas web
 
 <br><br>
 
-### 🛠️ Ferramentas
+## 📱 Mobile
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
+
+<br>
+
+Flutter • Dart • Android Studio
+
+<br><br>
+
+## 🏗️ Conceitos e Estruturas
+
+<img src="https://skillicons.dev/icons?i=git,github"/>
+
+<br>
+
+MVC • Organização de projetos • Controle de versão com Git
 
 </div>
 
 ---
 
-# 📚 Atualmente estudando
+# 💻 O que eu desenvolvo
 
-📌 Desenvolvimento Web
-📌 APIs REST
-📌 Arquitetura de Software
-📌 Flutter e desenvolvimento Mobile
-📌 Banco de Dados
-📌 Boas práticas de programação
+🌐 **Aplicações Web**
+
+* Páginas responsivas com HTML e CSS
+* Sistemas utilizando JavaScript
+* Aplicações utilizando PHP e banco de dados
+* Estruturação de projetos com organização MVC
+
+📱 **Aplicações Mobile**
+
+* Desenvolvimento de interfaces com Flutter
+* Aplicativos utilizando Dart
+* Testes em ambiente Android
+
+🛠️ **Projetos e estudos**
+
+* Integração entre Front-End e Back-End
+* Manipulação de dados
+* Organização e melhoria de código
 
 ---
 
-# 🚀 Projetos
+# 🚀 Projetos em destaque
 
 ## 🛒 Sistema de Quitanda
 
-Sistema desenvolvido utilizando JavaScript com organização baseada no padrão MVC.
+Sistema desenvolvido utilizando JavaScript com arquitetura baseada em MVC.
 
 **Tecnologias:**
 
@@ -84,47 +106,71 @@ Sistema desenvolvido utilizando JavaScript com organização baseada no padrão 
 * HTML
 * CSS
 
+**Conceitos aplicados:**
+
+* Separação de responsabilidades
+* Manipulação do DOM
+* Organização de código
+
 ---
 
 ## 📱 FITLife
 
-Aplicação Mobile desenvolvida utilizando Flutter.
+Aplicativo mobile desenvolvido utilizando Flutter.
 
 **Tecnologias:**
 
 * Dart
 * Flutter
 
+**Conceitos aplicados:**
+
+* Desenvolvimento de interfaces
+* Organização de telas
+* Estrutura de aplicativos mobile
+
 ---
 
 ## 🌐 Projetos Web
 
-Desenvolvimento de aplicações utilizando:
+Projetos utilizando:
 
 * HTML
-* CSS
+* CSS / SCSS
 * JavaScript
 * PHP
-* Banco de Dados
+* MySQL
+
+---
+
+# 📚 Atualmente estudando
+
+📌 Desenvolvimento Web avançado
+📌 APIs e integração entre sistemas
+📌 Flutter e desenvolvimento Mobile
+📌 Boas práticas de programação
+📌 Arquitetura de software
+📌 Banco de dados
 
 ---
 
 # 🎯 Objetivo
 
-Meu objetivo é crescer como desenvolvedor de software, criando aplicações organizadas, eficientes e com boas práticas de desenvolvimento.
+Meu objetivo é crescer profissionalmente como desenvolvedor de software, criando soluções eficientes e aprendendo continuamente novas tecnologias.
 
-Busco oportunidades para aplicar meus conhecimentos, aprender com profissionais da área e participar de projetos que gerem impacto real.
+Busco oportunidades onde eu possa aplicar meus conhecimentos, contribuir com projetos reais e evoluir junto com outros profissionais da área.
 
 ---
 
 # 🧩 Habilidades
 
-✔️ Resolução de problemas
+✔️ Desenvolvimento Web
+✔️ Desenvolvimento Mobile
 ✔️ Organização de código
+✔️ Resolução de problemas
 ✔️ Aprendizado rápido
 ✔️ Trabalho em equipe
-✔️ Comunicação
-✔️ Interesse em novas tecnologias
+✔️ Interesse por tecnologia
 
 ---
 
@@ -140,7 +186,7 @@ Busco oportunidades para aplicar meus conhecimentos, aprender com profissionais 
 
 ---
 
-# 📫 Entre em contato
+# 📫 Contato
 
 📩 **Email:** [vinieduardopini.12@gmail.com](mailto:vinieduardopini.12@gmail.com)
 
