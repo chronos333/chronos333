@@ -1,16 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6A0DAD&section=header&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8B5CF6&section=header&textBg=false"/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Vinicius+Pini;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Web+%7C+Back-End+%7C+Mobile;Sempre+aprendendo+e+evoluindo"/>
+
+</div>
+
+<h1 align="center">
+🚀 Vinicius Pini | Desenvolvedor em Formação
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&size=25&center=true&vCenter=true&width=700&lines=Vinicius+Pini;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Focado+em+Back-End+e+Full+Stack;Explorando+Web+e+Mobile"/>
+🎓 Técnico em Desenvolvimento de Sistemas — SENAI Americana <br>
+💻 Desenvolvimento Web • Back-End • Mobile <br>
+🚀 Construindo projetos e evoluindo na área de tecnologia
 </p>
 
-<h1 align="center">🚀 Vinicius Pini | Desenvolvedor em Formação</h1>
-
-<p align="center">
-  🎓 Estudante de Desenvolvimento de Sistemas — SENAI Americana <br>
-  💻 Desenvolvimento Web | Back-End | Mobile <br>
-  🚀 Buscando oportunidades para evoluir na área de tecnologia
-</p>
 
 ---
 
@@ -18,11 +23,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chronos333&theme=date_night"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chronos333&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=8B5CF6"/>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chronos333&theme=date_night"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronos333&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=8B5CF6"/>
 
 </div>
+
 
 ---
 
@@ -30,103 +36,98 @@
 
 Sou estudante do curso Técnico em **Desenvolvimento de Sistemas pelo SENAI Americana**.
 
-Durante minha formação venho desenvolvendo projetos utilizando diferentes tecnologias, aplicando conceitos de programação, banco de dados, arquitetura de sistemas e desenvolvimento de aplicações.
+Durante minha formação venho desenvolvendo aplicações utilizando diferentes tecnologias, aplicando conceitos de programação, banco de dados, organização de código e desenvolvimento de sistemas.
 
 Tenho experiência prática com:
 
-* Desenvolvimento Web
-* Sistemas utilizando arquitetura MVC
-* Aplicações com JavaScript
-* Desenvolvimento Back-End com PHP
-* Banco de Dados MySQL
-* Aplicativos Mobile utilizando Flutter
+- 🌐 Desenvolvimento Web
+- ⚙️ Desenvolvimento Back-End
+- 📱 Aplicações Mobile
+- 🏗️ Arquitetura MVC
+- 🗄️ Banco de Dados
+- 🔄 Controle de versão com Git
 
-Tenho interesse em **Back-End, APIs, desenvolvimento Full Stack e arquitetura de software**, buscando sempre melhorar minhas habilidades através de projetos reais.
+Tenho interesse em **Back-End, Full Stack, APIs e arquitetura de software**, buscando sempre melhorar minhas habilidades através de projetos práticos.
+
 
 ---
 
 # 🚀 Projetos em Destaque
 
-### 🛒 Sistema de Controle de Quitanda
 
-Sistema Web desenvolvido utilizando JavaScript seguindo o padrão MVC.
+## 🛒 Sistema de Controle de Quitanda
 
-**Tecnologias:**
+Aplicação Web desenvolvida utilizando JavaScript seguindo o padrão MVC.
 
-* JavaScript
-* HTML
-* CSS
-* Arquitetura MVC
+### Tecnologias:
 
-**Conceitos aplicados:**
+<img src="https://skillicons.dev/icons?i=javascript,html,css"/>
 
-* Separação de responsabilidades
-* Manipulação do DOM
-* Controle de estoque
-* Registro de movimentações
+### Conceitos aplicados:
+
+- Organização MVC
+- Manipulação do DOM
+- Controle de estoque
+- Registro de movimentações
+- Separação de responsabilidades
+
 
 ---
 
-### 📱 FITLife
+## 📱 FITLife
 
 Aplicativo Mobile desenvolvido utilizando Flutter.
 
-**Tecnologias:**
+### Tecnologias:
 
-* Dart
-* Flutter
-* Android Studio
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
 
-**Conceitos aplicados:**
+### Conceitos aplicados:
 
-* Construção de interfaces
-* Organização de telas
-* Desenvolvimento Mobile
+- Desenvolvimento de interfaces
+- Organização de telas
+- Componentização
+- Estrutura de aplicativos mobile
 
----
-
-### 🌐 Sistemas Web
-
-Projetos envolvendo desenvolvimento de aplicações utilizando:
-
-* HTML5
-* CSS3
-* SCSS
-* JavaScript
-* PHP
-* MySQL
-
-Incluindo integração entre Front-End, Back-End e banco de dados.
 
 ---
 
-# 📚 Formação Técnica
+## 🌐 Sistemas Web
 
-## ✅ Conteúdos estudados
+Projetos utilizando desenvolvimento Full Stack:
 
-* Lógica de Programação
-* Desenvolvimento Web
-* Banco de Dados
-* Programação Back-End
-* Desenvolvimento Mobile
-* Levantamento de Requisitos
-* Projetos de Software
-* Arquitetura e organização de sistemas
+### Front-End:
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript"/>
+
+
+### Back-End:
+
+<img src="https://skillicons.dev/icons?i=php,mysql"/>
+
+
+Aplicações envolvendo:
+
+- Interfaces responsivas
+- Processamento de dados
+- Integração com banco de dados
+- Estruturação de sistemas
+
 
 ---
 
-# 🛠️ Linguagens e Ferramentas
+# 🛠️ Tecnologias
+
 
 <div align="center">
 
 <table>
 
 <tr>
+
 <td align="center">
 
-<b>Linguagens</b>
-
-<br>
+### Linguagens
 
 <img src="https://skillicons.dev/icons?i=javascript,php,python,java,dart"/>
 
@@ -134,9 +135,7 @@ Incluindo integração entre Front-End, Back-End e banco de dados.
 
 <td align="center">
 
-<b>Web</b>
-
-<br>
+### Front-End
 
 <img src="https://skillicons.dev/icons?i=html,css,sass"/>
 
@@ -144,51 +143,64 @@ Incluindo integração entre Front-End, Back-End e banco de dados.
 
 </tr>
 
+
 <tr>
 
 <td align="center">
 
-<b>Mobile & Frameworks</b>
+### Mobile
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio"/>
 
 </td>
 
 <td align="center">
 
-<b>Banco e Ferramentas</b>
+### Ferramentas
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </td>
 
 </tr>
 
+
 </table>
 
 </div>
 
----
-
-# 🎯 Objetivo
-
-Conquistar minha primeira oportunidade na área de desenvolvimento, aplicando meus conhecimentos em projetos reais e evoluindo como profissional de tecnologia.
-
-Busco trabalhar em ambientes onde eu possa aprender, colaborar e desenvolver soluções eficientes.
 
 ---
 
-# 📈 Atualmente focado em
+# 📚 Conhecimentos
+
+### Desenvolvimento
+
+- Lógica de programação
+- Estrutura de dados
+- Programação orientada a objetos
+- Desenvolvimento Web
+- Desenvolvimento Mobile
+
+
+### Sistemas
+
+- Banco de Dados
+- Modelagem de sistemas
+- Levantamento de requisitos
+- Arquitetura de software
+- Organização de projetos
+
+
+---
+
+# 📈 Atualmente estudando
 
 🔥 Desenvolvimento Back-End
 
 ⚡ JavaScript e PHP
 
-📱 Flutter e desenvolvimento Mobile
+📱 Flutter e Dart
 
 🗄️ Banco de Dados
 
@@ -196,21 +208,42 @@ Busco trabalhar em ambientes onde eu possa aprender, colaborar e desenvolver sol
 
 🧠 Boas práticas de programação
 
+
+---
+
+# 🎯 Objetivo
+
+Conquistar minha primeira oportunidade na área de desenvolvimento, aplicando meus conhecimentos em projetos reais e evoluindo profissionalmente.
+
+Busco fazer parte de uma equipe onde eu possa contribuir, aprender novas tecnologias e desenvolver soluções eficientes.
+
+
 ---
 
 # 📫 Contato
 
-📩 **Email:**
-[vinieduardopini.12@gmail.com](mailto:vinieduardopini.12@gmail.com)
+<div align="center">
 
-🔗 **LinkedIn:**
-https://www.linkedin.com/in/vinícius-pini-41490b35b/
+<a href="mailto:vinieduardopini.12@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+
+<a href="https://www.linkedin.com/in/vinícius-pini-41490b35b/">
+
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=6A0DAD"/>
+<img src="https://komarev.com/ghpvc/?username=chronos333&style=flat-square&color=8B5CF6"/>
 
 <br><br>
 
@@ -218,4 +251,5 @@ https://www.linkedin.com/in/vinícius-pini-41490b35b/
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6A0DAD&section=footer&textBg=false"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=8B5CF6&section=footer&textBg=false"/>
