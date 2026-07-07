@@ -23,11 +23,11 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chronos333&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=chronos333&layout=compact&hide_border=true&title_color=8B5CF6&text_color=FFFFFF&bg_color=00000000"/>
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chronos333&theme=date_night"/>
+  
+  <br> 
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chronos333&theme=date_night"/> </div>
 
 ---
 
