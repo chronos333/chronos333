@@ -21,8 +21,6 @@
 
 # 📊 Estatísticas
 
-# 📊 Estatísticas
-
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chronos333&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF"/>
@@ -54,6 +52,18 @@ Tenho interesse em **Back-End, Full Stack, APIs e arquitetura de software**, bus
 ---
 
 # 🚀 Projetos em Destaque
+
+## 🛍️ Projeto Final PHP — Sistema Web
+(PHP + MySQL)
+
+## 🛒 Sistema de Controle de Quitanda
+(JavaScript + MVC)
+
+## 📱 FITLife
+(Flutter + Dart)
+
+## 🌐 Outros Projetos Web
+(HTML + CSS + JavaScript)
 
 
 ## 🛒 Sistema de Controle de Quitanda
