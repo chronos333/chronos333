@@ -1,194 +1,209 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6A0DAD&section=header&textBg=false"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=A855F7&size=25&center=true&vCenter=true&width=700&lines=Vinicius+Pini;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Focado+em+Back-End+e+Full+Stack;Explorando+Web+e+Mobile"/>
+</p>
+
+<h1 align="center">🚀 Vinicius Pini | Desenvolvedor em Formação</h1>
+
+<p align="center">
+  🎓 Estudante de Desenvolvimento de Sistemas — SENAI Americana <br>
+  💻 Desenvolvimento Web | Back-End | Mobile <br>
+  🚀 Buscando oportunidades para evoluir na área de tecnologia
+</p>
+
+---
+
+# 📊 Estatísticas
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0024,50:4b0082,100:a855f7&height=220&section=header"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=date_night"/>
 
-<br>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Vinicius+Pini"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;T%C3%A9cnico+em+Desenvolvimento+de+Sistemas+%7C+SENAI"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=date_night"/>
 
 </div>
 
-<br>
+---
 
 # 👨‍💻 Sobre mim
 
-Olá! Eu sou **Vinicius Pini**.
+Sou estudante do curso Técnico em **Desenvolvimento de Sistemas pelo SENAI Americana**.
 
-🎓 Estudante do Ensino Médio e do curso Técnico em Desenvolvimento de Sistemas pelo SENAI.
-💻 Desenvolvedor em formação com experiência em desenvolvimento Web e Mobile.
-🚀 Interessado em criar aplicações completas, organizadas e funcionais.
-📚 Sempre buscando melhorar minhas habilidades através de projetos práticos.
+Durante minha formação venho desenvolvendo projetos utilizando diferentes tecnologias, aplicando conceitos de programação, banco de dados, arquitetura de sistemas e desenvolvimento de aplicações.
 
-Tenho experiência desenvolvendo interfaces, sistemas web, aplicações utilizando arquitetura MVC e projetos mobile com Flutter. Busco evoluir constantemente aplicando boas práticas de programação e aprendendo novas tecnologias.
+Tenho experiência prática com:
 
----
+* Desenvolvimento Web
+* Sistemas utilizando arquitetura MVC
+* Aplicações com JavaScript
+* Desenvolvimento Back-End com PHP
+* Banco de Dados MySQL
+* Aplicativos Mobile utilizando Flutter
 
-# 🚀 Tecnologias
-
-<div align="center">
-
-## 🌐 Front-End
-
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript"/>
-
-<br>
-
-HTML5 • CSS3 • SCSS • JavaScript
-
-<br><br>
-
-## ⚙️ Back-End
-
-<img src="https://skillicons.dev/icons?i=php,mysql"/>
-
-<br>
-
-PHP • MySQL • Desenvolvimento de sistemas web
-
-<br><br>
-
-## 📱 Mobile
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
-
-<br>
-
-Flutter • Dart • Android Studio
-
-<br><br>
-
-## 🏗️ Conceitos e Estruturas
-
-<img src="https://skillicons.dev/icons?i=git,github"/>
-
-<br>
-
-MVC • Organização de projetos • Controle de versão com Git
-
-</div>
+Tenho interesse em **Back-End, APIs, desenvolvimento Full Stack e arquitetura de software**, buscando sempre melhorar minhas habilidades através de projetos reais.
 
 ---
 
-# 💻 O que eu desenvolvo
+# 🚀 Projetos em Destaque
 
-🌐 **Aplicações Web**
+### 🛒 Sistema de Controle de Quitanda
 
-* Páginas responsivas com HTML e CSS
-* Sistemas utilizando JavaScript
-* Aplicações utilizando PHP e banco de dados
-* Estruturação de projetos com organização MVC
-
-📱 **Aplicações Mobile**
-
-* Desenvolvimento de interfaces com Flutter
-* Aplicativos utilizando Dart
-* Testes em ambiente Android
-
-🛠️ **Projetos e estudos**
-
-* Integração entre Front-End e Back-End
-* Manipulação de dados
-* Organização e melhoria de código
-
----
-
-# 🚀 Projetos em destaque
-
-## 🛒 Sistema de Quitanda
-
-Sistema desenvolvido utilizando JavaScript com arquitetura baseada em MVC.
+Sistema Web desenvolvido utilizando JavaScript seguindo o padrão MVC.
 
 **Tecnologias:**
 
 * JavaScript
 * HTML
 * CSS
+* Arquitetura MVC
 
 **Conceitos aplicados:**
 
 * Separação de responsabilidades
 * Manipulação do DOM
-* Organização de código
+* Controle de estoque
+* Registro de movimentações
 
 ---
 
-## 📱 FITLife
+### 📱 FITLife
 
-Aplicativo mobile desenvolvido utilizando Flutter.
+Aplicativo Mobile desenvolvido utilizando Flutter.
 
 **Tecnologias:**
 
 * Dart
 * Flutter
+* Android Studio
 
 **Conceitos aplicados:**
 
-* Desenvolvimento de interfaces
+* Construção de interfaces
 * Organização de telas
-* Estrutura de aplicativos mobile
+* Desenvolvimento Mobile
 
 ---
 
-## 🌐 Projetos Web
+### 🌐 Sistemas Web
 
-Projetos utilizando:
+Projetos envolvendo desenvolvimento de aplicações utilizando:
 
-* HTML
-* CSS / SCSS
+* HTML5
+* CSS3
+* SCSS
 * JavaScript
 * PHP
 * MySQL
 
----
-
-# 📚 Atualmente estudando
-
-📌 Desenvolvimento Web avançado
-📌 APIs e integração entre sistemas
-📌 Flutter e desenvolvimento Mobile
-📌 Boas práticas de programação
-📌 Arquitetura de software
-📌 Banco de dados
+Incluindo integração entre Front-End, Back-End e banco de dados.
 
 ---
 
-# 🎯 Objetivo
+# 📚 Formação Técnica
 
-Meu objetivo é crescer profissionalmente como desenvolvedor de software, criando soluções eficientes e aprendendo continuamente novas tecnologias.
+## ✅ Conteúdos estudados
 
-Busco oportunidades onde eu possa aplicar meus conhecimentos, contribuir com projetos reais e evoluir junto com outros profissionais da área.
-
----
-
-# 🧩 Habilidades
-
-✔️ Desenvolvimento Web
-✔️ Desenvolvimento Mobile
-✔️ Organização de código
-✔️ Resolução de problemas
-✔️ Aprendizado rápido
-✔️ Trabalho em equipe
-✔️ Interesse por tecnologia
+* Lógica de Programação
+* Desenvolvimento Web
+* Banco de Dados
+* Programação Back-End
+* Desenvolvimento Mobile
+* Levantamento de Requisitos
+* Projetos de Software
+* Arquitetura e organização de sistemas
 
 ---
 
-# 📊 GitHub Stats
+# 🛠️ Linguagens e Ferramentas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true"/>
+<table>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true"/>
+<tr>
+<td align="center">
+
+<b>Linguagens</b>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=javascript,php,python,java,dart"/>
+
+</td>
+
+<td align="center">
+
+<b>Web</b>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,sass"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<b>Mobile & Frameworks</b>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=flutter"/>
+
+</td>
+
+<td align="center">
+
+<b>Banco e Ferramentas</b>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,androidstudio"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
+# 🎯 Objetivo
+
+Conquistar minha primeira oportunidade na área de desenvolvimento, aplicando meus conhecimentos em projetos reais e evoluindo como profissional de tecnologia.
+
+Busco trabalhar em ambientes onde eu possa aprender, colaborar e desenvolver soluções eficientes.
+
+---
+
+# 📈 Atualmente focado em
+
+🔥 Desenvolvimento Back-End
+
+⚡ JavaScript e PHP
+
+📱 Flutter e desenvolvimento Mobile
+
+🗄️ Banco de Dados
+
+🏗️ Arquitetura de Software
+
+🧠 Boas práticas de programação
+
+---
+
 # 📫 Contato
 
-📩 **Email:** [vinieduardopini.12@gmail.com](mailto:vinieduardopini.12@gmail.com)
+📩 **Email:**
+[vinieduardopini.12@gmail.com](mailto:vinieduardopini.12@gmail.com)
 
 🔗 **LinkedIn:**
 https://www.linkedin.com/in/vinícius-pini-41490b35b/
@@ -197,6 +212,12 @@ https://www.linkedin.com/in/vinícius-pini-41490b35b/
 
 <div align="center">
 
-⭐ Obrigado por visitar meu perfil!
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=6A0DAD"/>
+
+<br><br>
+
+⭐ Sempre aprendendo, sempre evoluindo.
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=6A0DAD&section=footer&textBg=false"/>
