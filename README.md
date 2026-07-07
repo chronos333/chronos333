@@ -20,7 +20,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=date_night"/>
 
-<br>
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=date_night"/>
 
