@@ -54,7 +54,24 @@ Tenho interesse em **Back-End, Full Stack, APIs e arquitetura de software**, bus
 # 🚀 Projetos em Destaque
 
 ## 🛍️ Projeto Final PHP — Sistema Web
-(PHP + MySQL)
+
+Aplicação Web desenvolvida utilizando PHP com integração a banco de dados, trabalhando conceitos de desenvolvimento Back-End e construção de sistemas dinâmicos.
+
+🔗 Repositório:
+[ProjetoFinalPHP](https://github.com/chronos333/introdu-ao-php/tree/main/ProjetoFinalPHP)
+
+### Tecnologias:
+
+<img src="https://skillicons.dev/icons?i=php,mysql,html,css,javascript"/>
+
+### Conceitos aplicados:
+
+- Desenvolvimento Back-End com PHP
+- Integração com banco de dados
+- Estruturação de páginas dinâmicas
+- Manipulação de dados
+- Organização de arquivos
+- Desenvolvimento de funcionalidades Web
 
 ## 🛒 Sistema de Controle de Quitanda
 (JavaScript + MVC)
