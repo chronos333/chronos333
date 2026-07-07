@@ -23,9 +23,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chronos333&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chronos333&theme=github_dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chronos333&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=FFFFFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chronos333&theme=github_dark"/>
 
 </div>
 
